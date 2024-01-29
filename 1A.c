@@ -5,4 +5,7 @@ int main()
     scanf("%d%d%d",&n,&m,&a);
     x=(n/a)*(m/a);
     printf("%d\n",x);
+
+
+    return 0;
 }
